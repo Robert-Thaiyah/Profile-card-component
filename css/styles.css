@@ -35,7 +35,7 @@ body {
 
 .profile-picture {
     height: 200px;
-    background: url(/images/bg-pattern-card.svg); 
+    background: url(../images/bg-pattern-card.svg); 
     position: relative;
     display: flex;
     align-items: center;
